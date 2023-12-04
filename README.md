@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **Blue-Berri/Blue-Berri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📸 About me:
+- I'm a student studying Computer Science
+- Programmed in **Java** and **Kotlin** and competed in FIRST Robotics
+
+#### Languages
+![image](https://github.com/Blue-Berri/Blue-Berri/assets/59590426/bfad2bd4-3a6c-4fd1-a3a8-ddb63b5fb284) ![image](https://github.com/Blue-Berri/Blue-Berri/assets/59590426/d23f1291-ffab-42e8-8374-1cdd5ba1d2d8)
+
