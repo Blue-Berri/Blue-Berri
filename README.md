@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there [👋](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif)
 
 <!--
 **Blue-Berri/Blue-Berri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
