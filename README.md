@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 - Developed real-time games using Java and Lua
 
 #### Languages
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java Icon" width="75" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python Icon" width="75" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++ Icon" width="75" />
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" alt="Kotlin Icon" width="75" />
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java Icon" width="75" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python Icon" width="75" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++ Icon" width="75" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" alt="Kotlin Icon" width="75" />
+</div>
