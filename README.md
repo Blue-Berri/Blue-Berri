@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 #### Languages
 <div style="display: flex; gap: 10px;">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java Icon" width="75" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python Icon" width="75" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++ Icon" width="75" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" alt="Kotlin Icon" width="75" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java Icon" width="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python Icon" width="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++ Icon" width="50" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" alt="Kotlin Icon" width="50" />
 </div>
