@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 📸 About me:
-- I'm a 3nd-year student studying Computer Science at UC Irvine
+- I'm a 3rd-year student studying Computer Science at UC Irvine
 - Programmed in **Java**, **Python**, **C++**, and **Kotlin**
 - I've competed in Hackathons and FIRST Robotics
 - Developed real-time games using Java and Lua
