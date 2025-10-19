@@ -1,5 +1,3 @@
-# Hi there [👋](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif)
-
 <!--
 **Blue-Berri/Blue-Berri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,16 +13,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 📸 About me:
-- I'm a 3rd-year student studying Computer Science at UC Irvine
-- Programmed in **Java**, **Python**, **C++**, and **Kotlin**
-- I've competed in Hackathons and FIRST Robotics
-- Developed real-time games using Java and Lua
+  
+# Hi there 👋  
+### I'm Ethan Chin  
+🎓 3rd-year Computer Science student @ **UC Irvine**  
+💻 Building tools, apps, and projects that make things more efficient  
+📫 Reach me: [ejchin3@uci.edu](mailto:ejchin3@uci.edu)
 
-#### Languages
-<div style="display: flex; gap: 10px;">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java Icon" width="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python Icon" width="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++ Icon" width="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" alt="Kotlin Icon" width="50" />
-</div>
+---
+
+### 📸 About me:
+- Organizer for **Hack at UCI**, helping run Orange County’s largest hackathon  
+- I’ve coded in **Java, Python, C++, Kotlin, and TypeScript**  
+- Interested in web development, automation, and practical AI projects  
+
+---
+
+## ⚙️ Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
